@@ -1,0 +1,2 @@
+LocalFixers
+command = "python manage.py runserver --noinput"
